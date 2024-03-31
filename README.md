@@ -15,7 +15,8 @@ loadbalancer attached to ec2 instance
 
 cloud frond has been set to loadbalancer to reduce the latency
 
-![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/2926eb31-7e7a-4ab5-8f51-018f514a750c
+![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/bf6087f5-458f-40a7-8879-5e97d630c073)
+
 
 
 
