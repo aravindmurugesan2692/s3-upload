@@ -9,4 +9,14 @@ then ec2 has been created and autoscaling has been attached to that instance
 ![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/9677f785-fdf3-42e1-88ed-b8de2abf29d0)
 
 ![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/84d88001-c761-401e-9b63-26aabf044700)
+loadbalancer attached to ec2 instance 
+
+![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/24a7b308-5e4a-4f63-bba7-28960b7ce3de)
+
+cloud frond has been set to loadbalancer to reduce the latency
+
+![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/2926eb31-7e7a-4ab5-8f51-018f514a750c
+
+
+
 
