@@ -18,6 +18,13 @@ cloud frond has been set to loadbalancer to reduce the latency
 ![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/bf6087f5-458f-40a7-8879-5e97d630c073)
 
 
+s3 bucket policy
+
+![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/ed33823c-ecac-4fc0-ad18-717d84f94720)
+
+i am policy
+
+![image](https://github.com/aravindmurugesan2692/s3-upload/assets/138248609/1d29d487-2d6e-417d-92d8-85ac2568ae72)
 
 
 
